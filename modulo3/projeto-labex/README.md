@@ -1,6 +1,8 @@
 Projeto LabeX Consumindo a API LabeX do curso da Labenu.
 
-Utilizei lógicas de identificação e autorização com a estratégia mobile first. Tecnologias utilizadas: React.js, Styled-componentes, Chakra-UI, Framer-motion, React Router Dom e Axios.
+Utilizei lógicas de identificação e autorização com a estratégia mobile first. 
+
+Tecnologias utilizadas: React.js, Styled-componentes, Chakra-UI, Framer-motion, React Router Dom e Axios.
 
 Link Surge https://overrated-branch.surge.sh
 

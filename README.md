@@ -20,8 +20,8 @@
 
 1. [Exercício InstaPost](https://github.com/davidshenrique/labenu/tree/master/modulo2/estados-insta4)
 2. [Projeto WhatsLab](https://github.com/davidshenrique/labenu/tree/master/modulo2/projeto-whatslab)
-3. Projeto Lab E-commerce (em grupo)
-4. Projeto LabeNinjas (em grupo)
+3. [Projeto Lab E-commerce (em grupo)](https://github.com/future4code/Alves-labe-commerce4)
+4. [Projeto LabeNinjas (em grupo)](https://github.com/future4code/Alves-labe-ninja2)
 
 ### Módulo 3 - React Avançado e Hooks
 

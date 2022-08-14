@@ -11,7 +11,7 @@
 
 ### Módulo 1 - Fundamentos do Desenvolvimento Web
 
-1. [Projeto Desafios de JavaScript](https://github.com/davidshenrique/labenu/tree/master/modulo1/projeto-blackjack)
+1. [Projeto Desafios de JavaScript](https://github.com/davidshenrique/labenu/tree/master/modulo1/projeto-lista-js)
 2. [Projeto Blackjack](https://github.com/davidshenrique/labenu/tree/master/modulo1/projeto-blackjack)
 3. [Projeto Mini Portfolio](https://github.com/davidshenrique/labenu/tree/master/modulo1/projeto-portfolio)
 4. [Projeto Landing Page (em grupo)](https://github.com/future4code/Alves-landing-page4)

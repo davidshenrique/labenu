@@ -26,6 +26,6 @@
 ### Módulo 3 - React Avançado e Hooks
 
 1. Projeto Astromatch
-2. React Form
-3. Projeto Pokédex
-4. Projeto LabeFoods
+2. Projeto LabeX
+3. [Projeto Pokédex (em grupo)](https://github.com/future4code/Alves-pokedex12)
+4. [Projeto LabeFoods (em grupo)](https://github.com/future4code/Alves-labe-food8)

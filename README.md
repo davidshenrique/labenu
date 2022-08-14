@@ -27,7 +27,7 @@
 
 ### Módulo 3 - React Avançado e Hooks
 
-1. Projeto Astromatch
+1. [Projeto Astromatch](https://github.com/davidshenrique/labenu/tree/master/modulo3/projeto-astromatch)
 2. [Projeto LabeX](https://github.com/davidshenrique/labenu/tree/master/modulo3/projeto-labex)
 3. [Projeto Pokédex (em grupo)](https://github.com/future4code/Alves-pokedex12)
 4. [Projeto Mobile LabeFoods (em grupo)](https://github.com/future4code/Alves-labe-food8)

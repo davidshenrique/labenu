@@ -19,7 +19,7 @@
 ### Módulo 2 - Explorando o React e Assincronicidade
 
 1. [Exercício InstaPost](https://github.com/davidshenrique/labenu/tree/master/modulo2/estados-insta4)
-2. Projeto WhatsLab
+2. [Projeto WhatsLab](https://github.com/davidshenrique/labenu/tree/master/modulo2/projeto-whatslab)
 3. Projeto Lab E-commerce (em grupo)
 4. Projeto LabeNinjas (em grupo)
 

@@ -17,3 +17,15 @@
 4. [Projeto Landing Page (em grupo)](https://github.com/future4code/Alves-landing-page4)
 
 ### Módulo 2 - Explorando o React e Assincronicidade
+
+1. Exercício InstaPost
+2. Projeto WhatsLab
+3. Projeto Lab E-commerce (em grupo)
+4. Projeto LabeNinjas (em grupo)
+
+### Módulo 3 - React Avançado e Hooks
+
+1. Projeto Astromatch
+2. React Form
+3. Projeto Pokédex
+4. Projeto LabeFoods

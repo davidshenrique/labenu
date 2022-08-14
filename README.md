@@ -7,7 +7,7 @@
 3. Sub-pastas com **'projeto'**, é onde se encontram os projetos individuais que eu fui realizando ao longo do curso.
 4. Os projetos em grupo se encontram em outros repositórios mas eu juntei os links aqui para facilitar o acesso.
 
-## Segue abaixo os links de acesso rápido de cada projeto e meus exercícios favoritos:
+## Segue abaixo os links de acesso rápido de cada projeto:
 
 ### Módulo 1 - Fundamentos do Desenvolvimento Web
 

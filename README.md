@@ -28,4 +28,4 @@
 1. Projeto Astromatch
 2. Projeto LabeX
 3. [Projeto Pokédex (em grupo)](https://github.com/future4code/Alves-pokedex12)
-4. [Projeto LabeFoods (em grupo)](https://github.com/future4code/Alves-labe-food8)
+4. [Projeto Mobile LabeFoods (em grupo)](https://github.com/future4code/Alves-labe-food8)

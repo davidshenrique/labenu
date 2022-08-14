@@ -1,32 +1,8 @@
-Boas-vindas!
+# Boas vindas! 👋
 
-Esse repositório vai acompanhar vocês até o final do curso, para mantermos a organização, sugerimos que vocês sigam a seguinte estrutura:
+## Este é o repositório referente ao meu curso de desenvolvimento web na Labenu.
 
-```
-.
-├── modulo1
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   └── nome-do-projeto
-|
-├── modulo2
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   └── nome-do-projeto
-|
-├── modulo3
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   └── nome-do-projeto
-|
-.
-```
+Cada pasta de módulo representa 1 mês de curso, dentro de cada pasta é recomendodo dar uma olhada nas que contém a palavra **'projeto'**. É onde se encontram os projetos individuais que eu fui realizando ao longo do curso.
 
-Uma pasta para cada módulo, dentro delas uma pasta para cada dia de aula colocando o nome da aula e por fim uma pasta para cada projeto de fixação com o nome do projeto. Os nomes de cada aula e projeto estarão especificados nas instruções de git de cada exercício.
+Os projetos em grupo se encontram em outros repositórios e você pode acessá-los na home do meu perfil.
+
